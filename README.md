@@ -39,7 +39,8 @@ movie-pipeline/
 
 ## Starting file pipeline
 
-``` movie_pipeline.pipeline
+```
+movie_pipeline.pipeline
 ```
 
 
